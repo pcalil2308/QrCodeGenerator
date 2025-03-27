@@ -37,29 +37,28 @@
 ## 🚀 Como Executar
 
 Clone este repositório:
-
+```sh
 git clone https://github.com/seu-usuario/gerador-qrcode.git
 
+```
 Acesse o diretório do projeto:
-```sh
-cd gerador-qrcode
 
+```
+cd gerador-qrcode
+```
 Abra o arquivo index.html no navegador.
 
 🎨 Estilização
 
-O projeto utiliza a fonte Roboto do Google Fonts e um design responsivo para melhor usabilidade.
+- O projeto utiliza a fonte Roboto do Google Fonts e um design responsivo para melhor usabilidade.
 
 📜 Código-fonte
 
-O CSS define o layout e estilos visuais do gerador.
+- O CSS define o layout e estilos visuais do gerador.
 
-O JavaScript manipula os eventos e realiza chamadas para gerar o QR Code.
+- O JavaScript manipula os eventos e realiza chamadas para gerar o QR Code.
 
-O HTML estrutura os elementos na página.
-
-🖥 Demonstração
-
+- O HTML estrutura os elementos na página.
 
 
 📝 Licença
